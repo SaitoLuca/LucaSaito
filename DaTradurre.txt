@@ -1,13 +1,13 @@
-
+ 
 
 DESID. E mi? Cossa ha da esser de mi?
-DESID. E io? cosa sarà di me?
+
 TOD. E vu tornerè a Bergamo a arar i campi.
-TOD. E tu vuoi tornare a bergamo ad arare i campi
+
 DESID. Oh! sior patron, la sa con quanta attenzion, con quanta fedeltà l'ho servia. La servirò ancora per gnente, senza salario, per gnente.
-DESID. Oh! padrone, sapete con quante attenzioni, con quanta fedeltà vi ho serviti. Vi servirò ancora per generazioni, senza stipendio, per nulla.
+
 TOD. Me servirè per gnente? (con più dolcezza)
-TOD. Mi servirai per nulla? (con più dolcezza)
+
 DESID. Sior sì, ghe lo prometto.
 
 FORT. Sior sì, sior sì, el ve servirà per gnente. Ma de aria no se vive. El ve servirà per gnente, e el se pagherà da so posta. (a Todero, forte)
